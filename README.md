@@ -14,6 +14,9 @@ A production-style Jupyter Notebook project for analyzing enterprise infrastruct
 - Unit test for scoring logic
 - GitHub-ready structure
 
+- <img width="1536" height="1024" alt="Enterprise System Health Analytics Dashboard" src="https://github.com/user-attachments/assets/e6c74f36-55f1-4e90-b29f-1b3f036f5901" />
+
+
 ## Quick start
 
 ```bash
